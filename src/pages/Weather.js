@@ -19,8 +19,8 @@ function Weather() {
     }
   }
 
-  console.log(urlData)
-  console.log(locationName)
+  // console.log(urlData)
+  // console.log(locationName)
 
     return (
         <div className="app">

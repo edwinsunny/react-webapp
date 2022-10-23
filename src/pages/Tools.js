@@ -8,7 +8,7 @@ import "./Calculator.css";
 const Tools = () => {
 	const [text, setText] = useState('');
     const [result , setResult] = useState('');
-	const characterLimit = 200;
+	// const characterLimit = 200;
 
     const buttonColor = "orange"
 
