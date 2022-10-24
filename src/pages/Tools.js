@@ -18,7 +18,8 @@ const Tools = () => {
 	// 	}
 	// };
     const buttonClick = ( val ) => {
-        setText((text) => [...text, val + " "]);
+        setText((text) => [...text, val]);
+        // console.log("valu",val)
     }
 
     const calcResult = () => {
